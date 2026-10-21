@@ -1,0 +1,82 @@
+owner_id,date_sent,weekday,period,segment,multi_car,thread_missing,replied,shot
+O001,2026-05-12,Tuesday,May-Jul,Other,0,1,0,0
+O002,2026-05-12,Tuesday,May-Jul,Porsche,0,1,0,0
+O003,2026-05-12,Tuesday,May-Jul,Porsche,0,1,0,0
+O004,2026-05-12,Tuesday,May-Jul,Other,0,1,0,0
+O005,2026-05-12,Tuesday,May-Jul,Other,0,0,1,1
+O006,2026-05-12,Tuesday,May-Jul,Other,0,1,0,0
+O007,2026-05-12,Tuesday,May-Jul,Italian exotic,0,1,0,0
+O008,2026-05-12,Tuesday,May-Jul,BMW,0,0,1,0
+O009,2026-05-13,Wednesday,May-Jul,BMW,0,0,0,0
+O010,2026-05-13,Wednesday,May-Jul,BMW,0,1,0,0
+O011,2026-05-13,Wednesday,May-Jul,BMW,1,1,0,0
+O012,2026-05-13,Wednesday,May-Jul,Other,0,0,0,0
+O013,2026-05-13,Wednesday,May-Jul,BMW,0,0,1,1
+O014,2026-05-13,Wednesday,May-Jul,BMW,0,0,0,0
+O015,2026-05-19,Tuesday,May-Jul,BMW,0,0,1,1
+O016,2026-05-19,Tuesday,May-Jul,BMW,0,0,1,0
+O017,2026-05-22,Friday,May-Jul,BMW,0,0,1,0
+O018,2026-05-22,Friday,May-Jul,Italian exotic,0,0,1,0
+O019,2026-05-22,Friday,May-Jul,BMW,0,0,0,0
+O020,2026-05-22,Friday,May-Jul,BMW,0,0,1,0
+O021,2026-05-22,Friday,May-Jul,BMW,0,0,0,0
+O022,2026-05-22,Friday,May-Jul,BMW,0,0,1,1
+O023,2026-05-22,Friday,May-Jul,Other,0,0,0,0
+O024,2026-05-28,Thursday,May-Jul,BMW,0,1,0,0
+O025,2026-06-01,Monday,May-Jul,BMW,0,1,0,0
+O026,2026-06-01,Monday,May-Jul,BMW,0,1,0,0
+O027,2026-06-01,Monday,May-Jul,BMW,0,1,0,0
+O028,2026-06-01,Monday,May-Jul,BMW,0,1,0,0
+O029,2026-06-01,Monday,May-Jul,BMW,0,1,0,0
+O030,2026-06-01,Monday,May-Jul,BMW,0,0,1,1
+O031,2026-06-01,Monday,May-Jul,BMW,0,1,0,0
+O032,2026-06-01,Monday,May-Jul,BMW,0,0,1,0
+O033,2026-06-01,Monday,May-Jul,BMW,0,1,0,0
+O034,2026-07-04,Saturday,May-Jul,Other,0,1,0,0
+O035,2026-07-04,Saturday,May-Jul,Italian exotic,0,0,0,0
+O036,2026-07-04,Saturday,May-Jul,BMW,0,1,0,0
+O037,2026-07-10,Friday,May-Jul,BMW,0,0,1,1
+O038,2026-07-10,Friday,May-Jul,BMW,0,0,1,0
+O039,2026-07-10,Friday,May-Jul,Other,0,0,0,0
+O040,2026-07-10,Friday,May-Jul,Porsche,0,0,0,0
+O041,2026-07-10,Friday,May-Jul,Porsche,0,0,0,0
+O042,2026-07-10,Friday,May-Jul,BMW,0,0,0,0
+O043,2026-07-10,Friday,May-Jul,BMW,0,0,0,0
+O044,2026-07-10,Friday,May-Jul,Other,0,0,1,1
+O045,2026-07-10,Friday,May-Jul,Porsche,0,0,0,0
+O046,2026-07-13,Monday,May-Jul,BMW,0,1,0,0
+O047,2026-07-13,Monday,May-Jul,Italian exotic,0,1,0,0
+O048,2026-07-13,Monday,May-Jul,Other,0,1,0,0
+O049,2026-07-13,Monday,May-Jul,BMW,0,1,0,0
+O050,2026-07-13,Monday,May-Jul,Porsche,0,1,0,0
+O051,2026-07-13,Monday,May-Jul,Porsche,0,1,0,0
+O052,2026-07-13,Monday,May-Jul,Other,0,0,1,1
+O053,2026-07-13,Monday,May-Jul,BMW,0,0,1,1
+O054,2026-08-03,Monday,Aug-Oct,Other,0,0,1,1
+O055,2026-08-03,Monday,Aug-Oct,Other,0,0,1,0
+O056,2026-08-03,Monday,Aug-Oct,Porsche,0,0,1,1
+O057,2026-08-03,Monday,Aug-Oct,Other,0,0,1,0
+O058,2026-08-03,Monday,Aug-Oct,Porsche,0,0,1,0
+O059,2026-08-03,Monday,Aug-Oct,Italian exotic,0,0,1,1
+O060,2026-08-03,Monday,Aug-Oct,Italian exotic,0,0,1,1
+O061,2026-08-19,Wednesday,Aug-Oct,Porsche,0,0,1,0
+O062,2026-09-03,Thursday,Aug-Oct,Italian exotic,0,0,1,0
+O063,2026-09-08,Tuesday,Aug-Oct,Italian exotic,0,0,1,0
+O064,2026-09-15,Tuesday,Aug-Oct,Italian exotic,0,0,1,0
+O065,2026-09-15,Tuesday,Aug-Oct,Porsche,0,0,1,1
+O066,2026-09-17,Thursday,Aug-Oct,Italian exotic,1,0,1,1
+O067,2026-09-17,Thursday,Aug-Oct,Porsche,0,0,1,1
+O068,2026-09-28,Monday,Aug-Oct,Porsche,0,0,0,0
+O069,2026-10-01,Thursday,Aug-Oct,Italian exotic,1,0,0,0
+O070,2026-10-01,Thursday,Aug-Oct,Italian exotic,1,0,0,0
+O071,2026-10-01,Thursday,Aug-Oct,Italian exotic,1,0,0,0
+O072,2026-10-01,Thursday,Aug-Oct,Italian exotic,1,0,0,0
+O073,2026-10-01,Thursday,Aug-Oct,Italian exotic,1,0,0,0
+O074,2026-10-01,Thursday,Aug-Oct,Porsche,1,0,1,1
+O075,2026-10-01,Thursday,Aug-Oct,Porsche,0,0,1,1
+O076,2026-10-01,Thursday,Aug-Oct,Porsche,0,0,0,0
+O077,2026-10-01,Thursday,Aug-Oct,Porsche,0,0,1,0
+O078,2026-10-01,Thursday,Aug-Oct,Porsche,0,0,1,1
+O079,2026-10-01,Thursday,Aug-Oct,Porsche,0,0,1,1
+O080,2026-10-01,Thursday,Aug-Oct,Porsche,0,0,1,1
+O081,2026-10-01,Thursday,Aug-Oct,Other,0,0,1,1
